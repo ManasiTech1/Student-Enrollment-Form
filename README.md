@@ -4,11 +4,11 @@ This project is a student enrollment form that stores student data in JsonPowerD
 
 ## Benefits of using JsonPowerDB
 
-•	High performance: JsonPowerDB is designed for quick and efficient data management with minimal coding effort.
-•	Real-Time Processing: The database enables real-time data operations, making it suitable for dynamic applications.
-•	Dynamic Schema: No need for predefined schemas. Supports relational data management without primary keys (PK), foreign keys (FK), or unique keys (UK).
-•	Versatile Storage: Handles structured, semi-structured, and unstructured data.
-•	REST API Integration: Low-code, HTTP-based REST APIs allow easy integration with multiple technologies.
-•	Cost Efficiency: Reduces development time and costs by eliminating the need for database setup and management tasks.
-•	Built-in Security: Provides secure REST API access for data manipulation.
-•	Scalability: It can handle a growing amount of data without compromising performance.
+-	High performance: JsonPowerDB is designed for quick and efficient data management with minimal coding effort.
+-	Real-Time Processing: The database enables real-time data operations, making it suitable for dynamic applications.
+-	Dynamic Schema: No need for predefined schemas. Supports relational data management without primary keys (PK), foreign keys (FK), or unique keys (UK).
+-	Versatile Storage: Handles structured, semi-structured, and unstructured data.
+-	REST API Integration: Low-code, HTTP-based REST APIs allow easy integration with multiple technologies.
+-	Cost Efficiency: Reduces development time and costs by eliminating the need for database setup and management tasks.
+-	Built-in Security: Provides secure REST API access for data manipulation.
+-	Scalability: It can handle a growing amount of data without compromising performance.
